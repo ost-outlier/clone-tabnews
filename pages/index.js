@@ -2,11 +2,11 @@ function Home() {
   return (
     <div>
       <h1>Meu Benho</h1>
-      <p>Você é o amor da minha vida.
-        Eu não posso te deixar.
-        Você é como a brisa da manhã,
-        Numa noite de luar.
-      
+      <p>
+        Você é o amor da minha vida. <br />
+        Eu não posso te deixar <br />
+        Você é como a brisa da manhã, <br />
+        Numa noite de luar. <br />
       </p>
       <h1>S2 Lhe Asmo! S2</h1>
     </div>
