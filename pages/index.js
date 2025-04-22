@@ -3,10 +3,14 @@ function Home() {
     <div style={styles.container}>
       <h1 style={styles.title}>Meu Benho</h1>
       <p style={styles.poem}>
-        Você é o amor da minha vida.<br />
-        Eu não posso te deixar.<br />
-        Você é como a brisa da manhã,<br />
-        Numa noite de luar.<br />
+        Você é o amor da minha vida.
+        <br />
+        Eu não posso te deixar.
+        <br />
+        Você é como a brisa da manhã,
+        <br />
+        Numa noite de luar.
+        <br />
       </p>
       <h1 style={styles.title}>❤️ Lhe Asmo! ❤️</h1>
     </div>
@@ -15,30 +19,30 @@ function Home() {
 
 const styles = {
   container: {
-    backgroundColor: '#fff0f5',
-    fontFamily: 'Georgia, serif',
-    minHeight: '100vh',
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'center',
-    padding: '20px',
-    color: '#8b0000',
-    textAlign: 'center'
+    backgroundColor: "#fff0f5",
+    fontFamily: "Georgia, serif",
+    minHeight: "100vh",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    justifyContent: "center",
+    padding: "20px",
+    color: "#8b0000",
+    textAlign: "center",
   },
   title: {
-    fontSize: '2.5rem',
-    margin: '1rem 0',
+    fontSize: "2.5rem",
+    margin: "1rem 0",
   },
   poem: {
-    fontSize: '1.2rem',
-    lineHeight: '1.8',
-    backgroundColor: '#ffe4e1',
-    padding: '20px',
-    borderRadius: '12px',
-    maxWidth: '600px',
-    boxShadow: '0 0 15px rgba(0,0,0,0.1)',
-  }
+    fontSize: "1.2rem",
+    lineHeight: "1.8",
+    backgroundColor: "#ffe4e1",
+    padding: "20px",
+    borderRadius: "12px",
+    maxWidth: "600px",
+    boxShadow: "0 0 15px rgba(0,0,0,0.1)",
+  },
 };
 
 export default Home;

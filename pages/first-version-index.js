@@ -16,7 +16,6 @@ export default Home;
 //     <h1>Welcome to My Next.js App</h1>
 //      <p>This is a simple example of a Next.js application.</p>
 
-
 // This is a simple Next.js page component that renders a welcome message.
 // It uses a functional component and exports it as the default export.
 // The component returns a div containing an h1 header and a paragraph.
